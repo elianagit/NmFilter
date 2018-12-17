@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node"
+        ],
+        "outDir": "tsc",
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "inlineSources": true
+    },
+    "include": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

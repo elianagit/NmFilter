@@ -1,0 +1,1 @@
+{"version":3,"file":"ServerConsts.js","sourceRoot":"","sources":["../../consts/ServerConsts.ts"],"names":[],"mappings":";;AAAA,MAAa,YAAY;;AAEP,4BAAe,GAAG,IAAI,CAAA;AAFxC,oCAGC","sourcesContent":["export class ServerConsts {\r\n\r\n    public static LISTENNING_PORT = 3000\r\n}"]}
